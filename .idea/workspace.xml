@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7107f78-f9e7-4901-a6ba-6aa8d56eb192" name="Changes" comment="add project configuration files and initial data processing notebooks">
+    <list default="true" id="a7107f78-f9e7-4901-a6ba-6aa8d56eb192" name="Changes" comment="add code cell to save normalized data as CSV in normalization notebook - normalized the &quot;length&quot; column">
+      <change afterPath="$PROJECT_DIR$/binning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/info.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/normalization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/normalization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +91,48 @@
       <option name="project" value="LOCAL" />
       <updated>1764187988898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update normalization notebook with data normalization methods and enhance info documentation">
+      <option name="closed" value="true" />
+      <created>1764189429386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764189429386</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rename info.md to README.md for improved documentation clarity">
+      <option name="closed" value="true" />
+      <created>1764189530947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764189530947</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename info.md to README.md for improved documentation clarity">
+      <option name="closed" value="true" />
+      <created>1764189735695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764189735695</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add code cell to save normalized data as CSV in normalization notebook - normalized the &quot;length&quot; column">
+      <option name="closed" value="true" />
+      <created>1764189884581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764189884581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add formatted_auto_data.csv from manipulation in formatting.ipynb" />
     <MESSAGE value="add project configuration files and initial data processing notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="add project configuration files and initial data processing notebooks" />
+    <MESSAGE value="update normalization notebook with data normalization methods and enhance info documentation" />
+    <MESSAGE value="rename info.md to README.md for improved documentation clarity" />
+    <MESSAGE value="add code cell to save normalized data as CSV in normalization notebook - normalized the &quot;length&quot; column" />
+    <option name="LAST_COMMIT_MESSAGE" value="add code cell to save normalized data as CSV in normalization notebook - normalized the &quot;length&quot; column" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
