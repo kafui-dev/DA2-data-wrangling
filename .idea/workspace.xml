@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7107f78-f9e7-4901-a6ba-6aa8d56eb192" name="Changes" comment="add code cell to save binned data as CSV in binning notebook" />
+    <list default="true" id="a7107f78-f9e7-4901-a6ba-6aa8d56eb192" name="Changes" comment="update workspace configuration to reflect recent changes in notebooks and tasks">
+      <change afterPath="$PROJECT_DIR$/cat-quant.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kafui-dev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kafui-dev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kafui-dev/DA2-data-wrangling.git",
-    "accountId": "34aa7c58-536e-4306-9766-ce8234d97a40"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kafui-dev/DA2-data-wrangling.git&quot;,
+    &quot;accountId&quot;: &quot;34aa7c58-536e-4306-9766-ce8234d97a40&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -144,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764190939424</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update workspace configuration to reflect recent changes in notebooks and tasks">
+      <option name="closed" value="true" />
+      <created>1764191026723</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764191026724</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,7 +166,8 @@
     <MESSAGE value="add code cell to save normalized data as CSV in normalization notebook - normalized the &quot;length&quot; column" />
     <MESSAGE value="binning method" />
     <MESSAGE value="add code cell to save binned data as CSV in binning notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="add code cell to save binned data as CSV in binning notebook" />
+    <MESSAGE value="update workspace configuration to reflect recent changes in notebooks and tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace configuration to reflect recent changes in notebooks and tasks" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
