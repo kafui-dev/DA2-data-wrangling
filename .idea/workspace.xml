@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7107f78-f9e7-4901-a6ba-6aa8d56eb192" name="Changes" comment="update workspace configuration to reflect recent changes in notebooks and tasks">
-      <change afterPath="$PROJECT_DIR$/cat-quant.ipynb" afterDir="false" />
+    <list default="true" id="a7107f78-f9e7-4901-a6ba-6aa8d56eb192" name="Changes" comment="add cat-quant.ipynb for turning categorical variables to quantitative ones">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764191026724</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add cat-quant.ipynb for turning categorical variables to quantitative ones">
+      <option name="closed" value="true" />
+      <created>1764285092458</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764285092459</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,7 +174,8 @@
     <MESSAGE value="binning method" />
     <MESSAGE value="add code cell to save binned data as CSV in binning notebook" />
     <MESSAGE value="update workspace configuration to reflect recent changes in notebooks and tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace configuration to reflect recent changes in notebooks and tasks" />
+    <MESSAGE value="add cat-quant.ipynb for turning categorical variables to quantitative ones" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cat-quant.ipynb for turning categorical variables to quantitative ones" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
